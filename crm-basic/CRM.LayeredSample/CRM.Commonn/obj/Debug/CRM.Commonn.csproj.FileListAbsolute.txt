@@ -1,0 +1,11 @@
+C:\Users\OmerUnsal\Desktop\3.ay\3.hafta\05.04.2019\CRM.LayeredSample\CRM.Commonn\bin\Debug\CRM.Commonn.dll
+C:\Users\OmerUnsal\Desktop\3.ay\3.hafta\05.04.2019\CRM.LayeredSample\CRM.Commonn\bin\Debug\CRM.Commonn.pdb
+C:\Users\OmerUnsal\Desktop\3.ay\3.hafta\05.04.2019\CRM.LayeredSample\CRM.Commonn\obj\Debug\CRM.Commonn.csproj.CoreCompileInputs.cache
+C:\Users\OmerUnsal\Desktop\3.ay\3.hafta\05.04.2019\CRM.LayeredSample\CRM.Commonn\obj\Debug\CRM.Commonn.dll
+C:\Users\OmerUnsal\Desktop\3.ay\3.hafta\05.04.2019\CRM.LayeredSample\CRM.Commonn\obj\Debug\CRM.Commonn.pdb
+C:\Users\OmerUnsal\Desktop\gitRepo\CrmSonHali\CrmSonHali\CRM.LayeredSample\CRM.Commonn\bin\Debug\CRM.Commonn.dll
+C:\Users\OmerUnsal\Desktop\gitRepo\CrmSonHali\CrmSonHali\CRM.LayeredSample\CRM.Commonn\bin\Debug\CRM.Commonn.pdb
+C:\Users\OmerUnsal\Desktop\gitRepo\CrmSonHali\CrmSonHali\CRM.LayeredSample\CRM.Commonn\obj\Debug\CRM.Commonn.csprojAssemblyReference.cache
+C:\Users\OmerUnsal\Desktop\gitRepo\CrmSonHali\CrmSonHali\CRM.LayeredSample\CRM.Commonn\obj\Debug\CRM.Commonn.csproj.CoreCompileInputs.cache
+C:\Users\OmerUnsal\Desktop\gitRepo\CrmSonHali\CrmSonHali\CRM.LayeredSample\CRM.Commonn\obj\Debug\CRM.Commonn.dll
+C:\Users\OmerUnsal\Desktop\gitRepo\CrmSonHali\CrmSonHali\CRM.LayeredSample\CRM.Commonn\obj\Debug\CRM.Commonn.pdb
