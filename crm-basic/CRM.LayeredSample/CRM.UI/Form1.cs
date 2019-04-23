@@ -19,11 +19,7 @@ namespace CRM.UI
         {
             InitializeComponent();
         }
-
-        // CRm Project -> Customer Relationship Management (Müşteri İlişkileri Yönetim Sistemi...)
-
-        // CRM.Entity içine BaseType.cs adında bir class açıyorum - oradayım...
-
+        
         customerDAL cusDal = new customerDAL();
 
         private void Form1_Load(object sender, EventArgs e)

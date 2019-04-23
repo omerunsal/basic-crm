@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using CRM.Commonn;
 namespace CRM.Dal
 
-{   //Ado.net ile veritabanı işlemlermizi metot vb. ne varsa hepsini bu class içinde çekelim.
+{   
     public class SqlProvider
     {
         #region fieldsAndConstructors
@@ -56,7 +56,7 @@ namespace CRM.Dal
         {
             OpenConnection();
 
-            return cmd.ExecuteReader(System.Data.CommandBehavior.CloseConnection); //veri çekme işlemim bittiğinde iletişimi hemen kapat.
+            return cmd.ExecuteReader(System.Data.CommandBehavior.CloseConnection); 
             //closeconnection();
         }
 

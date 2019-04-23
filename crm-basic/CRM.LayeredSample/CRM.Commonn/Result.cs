@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CRM.Commonn
 {
-    public class Result // bu classı Result (sonuç) datalarını döndürmek için kullanacağım...
+    public class Result 
     {
         public bool IsSucceeded { get; set; }
         public Result()
